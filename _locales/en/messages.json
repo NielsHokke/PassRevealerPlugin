@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "PassRevealer",
+    "description": "Reveals password hidden behind asterisks."
+  },
+
+  "extensionDescription": {
+    "message": "Reveals password hidden behind asterisks.",
+    "description": "Adds option to the context menu that toggles between asteriks and plain text on password fields"
+  },
+
+  "menuItemRevealHidePass": {
+    "message": "Reveal/Hide password",
+    "description": "Title of context menu item that reveals or hides the password"
+  }
+}

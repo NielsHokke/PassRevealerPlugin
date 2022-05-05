@@ -1,0 +1,25 @@
+{
+
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+
+  "version": "1.0",
+  "default_locale": "en",
+
+  "icons": {
+    "48": "icons/eye-48.png"
+  },
+
+  "background": {
+    "scripts": ["Background.js"]
+  },
+
+  "permissions": [
+    "menus",
+    "activeTab",
+    "https://*/*",
+    "http://*/*",
+    "tabs"
+  ]
+}
