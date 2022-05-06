@@ -4,6 +4,12 @@
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
 
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "PassRevealerPlugin@nielshokke.github.com"
+    }
+  },
+
   "version": "1.0",
   "default_locale": "en",
 
